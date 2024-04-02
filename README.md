@@ -6,6 +6,6 @@
 
 
 # Technical Skills
-- **Languages**: C, Pythong, JavaScript, Shell
+- **Languages**: C, Python, JavaScript, Shell
 - **Tools/Version** Control: Git Version Control
 
